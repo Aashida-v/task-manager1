@@ -1,6 +1,6 @@
 module task-manager
 
-go 1.26.1
+go 1.20
 
 require (
 	firebase.google.com/go v3.13.0+incompatible
